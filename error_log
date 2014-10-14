@@ -1,0 +1,790 @@
+[29-Sep-2014 19:07:57 America/Chicago] PHP Fatal error:  Call to undefined function mai() in /home/sandtits/public_html/otp/activate.php on line 13
+[29-Sep-2014 19:08:00 America/Chicago] PHP Fatal error:  Call to undefined function mai() in /home/sandtits/public_html/otp/activate.php on line 13
+[29-Sep-2014 19:08:02 America/Chicago] PHP Fatal error:  Call to undefined function mai() in /home/sandtits/public_html/otp/activate.php on line 13
+[29-Sep-2014 23:43:26 America/Chicago] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/sandtits/public_html/otp/activate.php on line 16
+[29-Sep-2014 23:43:30 America/Chicago] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/sandtits/public_html/otp/activate.php on line 16
+[29-Sep-2014 23:43:32 America/Chicago] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/sandtits/public_html/otp/activate.php on line 16
+[08-Oct-2014 15:54:09 America/Chicago] PHP Fatal error:  Call to a member function getObjectId() on a non-object in /home/sandtits/public_html/odd/sms-hello-monkey.php on line 30
+[08-Oct-2014 16:06:30 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:06:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:06:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:07:01 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:07:11 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:07:23 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:07:34 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:07:44 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:07:54 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:08:04 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:08:14 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:08:27 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:08:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:08:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:09:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:09:27 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:09:37 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:09:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:10:07 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:10:16 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:10:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:10:44 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:10:55 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:11:05 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:11:15 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:11:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:11:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:11:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(55): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:35:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/sandtits/public_html/odd/sms-hello-monkey.php on line 56
+[08-Oct-2014 16:36:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/sandtits/public_html/odd/sms-hello-monkey.php on line 56
+[08-Oct-2014 16:40:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/sandtits/public_html/odd/sms-hello-monkey.php on line 56
+[08-Oct-2014 16:40:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/sandtits/public_html/odd/sms-hello-monkey.php on line 56
+[08-Oct-2014 16:40:46 America/Chicago] PHP Fatal error:  Call to a member function getObjectId() on a non-object in /home/sandtits/public_html/odd/sms-hello-monkey.php on line 31
+[08-Oct-2014 16:44:08 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 16:45:57 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/conversation11.php on line 68
+[08-Oct-2014 17:18:58 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/sandtits/public_html/odd/users.php on line 27
+[08-Oct-2014 17:19:18 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/sandtits/public_html/odd/users.php on line 37
+[08-Oct-2014 17:19:27 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/sandtits/public_html/odd/users.php on line 37
+[08-Oct-2014 17:19:30 America/Chicago] PHP Fatal error:  Cannot use object of type Parse\ParseQuery as array in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 17:22:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$lastMessageObject' (T_VARIABLE) in /home/sandtits/public_html/odd/users.php on line 29
+[08-Oct-2014 17:25:35 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/sandtits/public_html/odd/users.php on line 30
+[08-Oct-2014 17:25:51 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/users.php on line 29
+[08-Oct-2014 17:27:33 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/users.php on line 29
+[08-Oct-2014 17:27:35 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/users.php on line 29
+[08-Oct-2014 17:30:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'ParseObject has no data for this key. Call fetch() to get the data.' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php:164
+Stack trace:
+#0 /home/sandtits/public_html/odd/users.php(29): Parse\ParseObject->get('phone')
+#1 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php on line 164
+[08-Oct-2014 17:32:33 America/Chicago] PHP Catchable fatal error:  Object of class Parse\ParseObject could not be converted to string in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 17:32:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'ParseObject has no data for this key. Call fetch() to get the data.' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php:164
+Stack trace:
+#0 /home/sandtits/public_html/odd/users.php(30): Parse\ParseObject->get('phone')
+#1 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php on line 164
+[08-Oct-2014 18:13:52 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/activate.php on line 26
+[08-Oct-2014 18:15:02 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:15:09 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/activate.php on line 26
+[08-Oct-2014 18:15:11 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:15:32 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:15:44 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:15:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:16:08 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:16:12 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/activate.php on line 26
+[08-Oct-2014 18:16:19 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:16:21 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/activate.php on line 26
+[08-Oct-2014 18:16:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:16:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:16:56 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/activate.php on line 26
+[08-Oct-2014 18:17:03 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:17:14 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:17:25 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:17:47 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:17:57 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:18:08 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:18:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:18:34 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:18:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:19:06 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:19:23 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:19:35 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:19:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:20:02 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:20:12 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:20:25 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:20:31 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/activate.php on line 26
+[08-Oct-2014 18:20:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:21:06 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:21:28 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:21:38 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:21:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:21:57 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/activate.php on line 26
+[08-Oct-2014 18:22:00 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:22:11 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:22:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:22:42 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:22:52 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:23:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:23:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:23:33 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:23:44 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:23:54 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:24:05 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:24:19 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:24:30 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:24:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:24:53 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:25:03 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:25:25 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:25:35 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:25:46 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:26:06 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:26:19 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:26:29 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:26:43 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:27:04 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:27:15 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:27:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:27:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:27:48 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:27:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:28:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:28:21 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:28:32 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:28:34 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:28:44 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:28:55 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:29:07 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:29:10 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:29:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:29:33 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:29:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:30:00 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:30:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:30:21 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:30:34 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'object not found for get' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(471): Parse\ParseClient::_request('GET', '/1/classes/User...', NULL)
+#1 /home/sandtits/public_html/odd/getstuff.php(51): Parse\ParseObject->fetch()
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[08-Oct-2014 18:30:42 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:31:06 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:31:12 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:31:19 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:32:35 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:34:09 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:35:27 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:35:31 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[08-Oct-2014 18:35:35 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[09-Oct-2014 10:16:44 America/Chicago] PHP Fatal error:  Class 'parseUser' not found in /home/sandtits/public_html/odd/parseLogin.php on line 12
+[09-Oct-2014 10:50:23 America/Chicago] PHP Fatal error:  Call to a member function getObjectId() on a non-object in /home/sandtits/public_html/odd/sms-hello-monkey.php on line 31
+[09-Oct-2014 10:55:47 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'invalid type for key texter, expected *User, but got *Patients' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(919): Parse\ParseClient::_request('POST', '/1/classes/Mess...', NULL, '{"content":"Hus...', false)
+#1 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(830): Parse\ParseObject::deepSave(Object(Parse\ParseObject), false)
+#2 /home/sandtits/public_html/odd/sms-hello-monkey.php(44): Parse\ParseObject->save()
+#3 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[09-Oct-2014 10:55:52 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[09-Oct-2014 10:56:29 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[09-Oct-2014 10:56:31 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[09-Oct-2014 10:57:05 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'invalid type for key texter, expected *User, but got *Patients' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(919): Parse\ParseClient::_request('POST', '/1/classes/Mess...', NULL, '{"content":"Nan...', false)
+#1 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(830): Parse\ParseObject::deepSave(Object(Parse\ParseObject), false)
+#2 /home/sandtits/public_html/odd/sms-hello-monkey.php(44): Parse\ParseObject->save()
+#3 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[09-Oct-2014 11:03:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'invalid type for key texter, expected *User, but got *Patients' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(919): Parse\ParseClient::_request('POST', '/1/classes/Mess...', NULL, '{"content":"He ...', false)
+#1 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(830): Parse\ParseObject::deepSave(Object(Parse\ParseObject), false)
+#2 /home/sandtits/public_html/odd/sms-hello-monkey.php(44): Parse\ParseObject->save()
+#3 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[09-Oct-2014 11:04:06 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'invalid type for key texter, expected *User, but got *Patients' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(919): Parse\ParseClient::_request('POST', '/1/classes/Mess...', NULL, '{"content":"Gg"...', false)
+#1 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(830): Parse\ParseObject::deepSave(Object(Parse\ParseObject), false)
+#2 /home/sandtits/public_html/odd/sms-hello-monkey.php(44): Parse\ParseObject->save()
+#3 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[09-Oct-2014 11:04:07 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[09-Oct-2014 11:04:11 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/sandtits/public_html/odd/users.php on line 28
+[09-Oct-2014 11:05:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'invalid type for key texter, expected *User, but got *Patients' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(919): Parse\ParseClient::_request('POST', '/1/classes/Mess...', NULL, '{"content":"Djd...', false)
+#1 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseObject.php(830): Parse\ParseObject::deepSave(Object(Parse\ParseObject), false)
+#2 /home/sandtits/public_html/odd/sms-hello-monkey.php(44): Parse\ParseObject->save()
+#3 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[09-Oct-2014 11:09:05 America/Chicago] PHP Fatal error:  Class 'parseUser' not found in /home/sandtits/public_html/odd/parseLogin.php on line 10
+[09-Oct-2014 11:12:56 America/Chicago] PHP Fatal error:  Class name must be a valid object or a string in /home/sandtits/public_html/odd/parseLogin.php on line 11
+[09-Oct-2014 11:14:44 America/Chicago] PHP Fatal error:  Class name must be a valid object or a string in /home/sandtits/public_html/odd/parseLogin.php on line 11
+[09-Oct-2014 11:18:36 America/Chicago] PHP Fatal error:  Class name must be a valid object or a string in /home/sandtits/public_html/odd/parseLogin.php on line 11
+[09-Oct-2014 11:20:50 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/parseLogin.php on line 10
+[09-Oct-2014 11:43:31 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'invalid login parameters' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php:259
+Stack trace:
+#0 /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseUser.php(137): Parse\ParseClient::_request('GET', '/1/login', '', Array)
+#1 /home/sandtits/public_html/odd/parseLogin.php(10): Parse\ParseUser::logIn('user', 'assd')
+#2 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseClient.php on line 259
+[09-Oct-2014 13:45:08 America/Chicago] PHP Fatal error:  Class 'ParseClient' not found in /home/sandtits/public_html/odd/parseLogin.php on line 11
+[09-Oct-2014 13:46:55 America/Chicago] PHP Fatal error:  Class 'ParseSessionStorage' not found in /home/sandtits/public_html/odd/parseLogin.php on line 14
+[09-Oct-2014 13:47:40 America/Chicago] PHP Fatal error:  Class 'ParseClient' not found in /home/sandtits/public_html/odd/parseLogin.php on line 13
+[09-Oct-2014 13:48:12 America/Chicago] PHP Fatal error:  Class 'ParseClient' not found in /home/sandtits/public_html/odd/parseLogin.php on line 14
+[09-Oct-2014 13:49:09 America/Chicago] PHP Fatal error:  Class 'ParseClient' not found in /home/sandtits/public_html/odd/parseLogin.php on line 14
+[09-Oct-2014 13:49:45 America/Chicago] PHP Fatal error:  Class 'ParseClient' not found in /home/sandtits/public_html/odd/parseLogin.php on line 14
+[09-Oct-2014 18:31:25 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/conversation11.php on line 68
+[09-Oct-2014 18:34:19 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/conversation11.php on line 69
+[09-Oct-2014 18:35:39 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/conversation11.php on line 68
+[09-Oct-2014 18:36:41 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/conversation11.php on line 69
+[09-Oct-2014 18:39:04 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/conversation11.php on line 69
+[09-Oct-2014 19:02:08 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 25
+[09-Oct-2014 19:02:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 25
+[09-Oct-2014 19:03:58 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 25
+[09-Oct-2014 19:05:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:05:55 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:06:22 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 17
+[09-Oct-2014 19:06:24 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 17
+[09-Oct-2014 19:07:26 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 17
+[09-Oct-2014 19:07:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 17
+[09-Oct-2014 19:07:34 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 17
+[09-Oct-2014 19:07:36 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 17
+[09-Oct-2014 19:08:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:08:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:13:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:13:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:13:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:13:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:19:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[09-Oct-2014 19:19:47 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 13
+[13-Oct-2014 19:32:04 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'Cannot log in user with an empty name' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseUser.php:129
+Stack trace:
+#0 /home/sandtits/public_html/odd/parseLogin.php(16): Parse\ParseUser::logIn('', '')
+#1 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseUser.php on line 129
+[13-Oct-2014 19:39:36 America/Chicago] PHP Catchable fatal error:  Object of class Parse\ParseUser could not be converted to string in /home/sandtits/public_html/odd/parseLogin.php on line 49
+[13-Oct-2014 19:45:52 America/Chicago] PHP Fatal error:  Call to undefined method Parse\ParseUser::username() in /home/sandtits/public_html/odd/parseLogin.php on line 48
+[13-Oct-2014 19:47:56 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/sandtits/public_html/odd/parseLogin.php on line 26
+[13-Oct-2014 19:48:03 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/sandtits/public_html/odd/parseLogin.php on line 26
+[13-Oct-2014 19:56:54 America/Chicago] PHP Fatal error:  Class 'ParseUser' not found in /home/sandtits/public_html/odd/logout.php on line 3
+[13-Oct-2014 19:59:46 America/Chicago] PHP Fatal error:  Class 'ParseClient' not found in /home/sandtits/public_html/odd/parseLogin.php on line 30
+[13-Oct-2014 19:59:47 America/Chicago] PHP Fatal error:  Class 'ParseClient' not found in /home/sandtits/public_html/odd/parseLogin.php on line 30
+[13-Oct-2014 20:05:10 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/users.php on line 10
+[13-Oct-2014 20:07:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$currentUser' (T_VARIABLE), expecting ',' or ';' in /home/sandtits/public_html/odd/parseLogin.php on line 19
+[13-Oct-2014 20:07:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sandtits/public_html/odd/parseLogin.php on line 21
+[13-Oct-2014 20:11:51 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/users.php on line 10
+[13-Oct-2014 20:58:57 America/Chicago] PHP Catchable fatal error:  Object of class Parse\ParseUser could not be converted to string in /home/sandtits/public_html/odd/parseLogin.php on line 28
+[13-Oct-2014 22:15:38 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/sandtits/public_html/odd/users.php on line 10
+[13-Oct-2014 22:16:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:19 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:20 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:20 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:16:22 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:29:35 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:39:44 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:39:44 America/Chicago] PHP Parse error:  syntax error, unexpected ''");' (T_ENCAPSED_AND_WHITESPACE) in /home/sandtits/public_html/odd/postnote.php on line 17
+[13-Oct-2014 22:40:26 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:41:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:45:35 America/Chicago] PHP Fatal error:  Class 'ParseObject' not found in /home/sandtits/public_html/odd/conversation11.php on line 202
+[13-Oct-2014 22:46:27 America/Chicago] PHP Fatal error:  Cannot use Parse\ParseQuery as ParseQuery because the name is already in use in /home/sandtits/public_html/odd/conversation11.php on line 204
+[13-Oct-2014 22:47:14 America/Chicago] PHP Fatal error:  Cannot use Parse\ParseQuery as ParseQuery because the name is already in use in /home/sandtits/public_html/odd/conversation11.php on line 69
+[13-Oct-2014 22:47:16 America/Chicago] PHP Fatal error:  Cannot use Parse\ParseQuery as ParseQuery because the name is already in use in /home/sandtits/public_html/odd/conversation11.php on line 69
+[13-Oct-2014 22:55:43 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[13-Oct-2014 22:56:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sandtits/public_html/odd/note_reply.php on line 15
+[14-Oct-2014 10:32:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'Cannot log in user with an empty name' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseUser.php:129
+Stack trace:
+#0 /home/sandtits/public_html/odd/parseLogin.php(16): Parse\ParseUser::logIn('', '')
+#1 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseUser.php on line 129
+[14-Oct-2014 10:34:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Parse\ParseException' with message 'Cannot log in user with an empty name' in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseUser.php:129
+Stack trace:
+#0 /home/sandtits/public_html/odd/parseLogin.php(16): Parse\ParseUser::logIn('', '')
+#1 {main}
+  thrown in /home/sandtits/public_html/odd/vendor/parse/php-sdk/src/Parse/ParseUser.php on line 129

@@ -1,0 +1,109 @@
+[
+    {
+        "name": "parse/php-sdk",
+        "version": "1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ParsePlatform/parse-php-sdk.git",
+            "reference": "b464ab34a0edd0322c9f496813501ec3bfb7ef09"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ParsePlatform/parse-php-sdk/zipball/b464ab34a0edd0322c9f496813501ec3bfb7ef09",
+            "reference": "b464ab34a0edd0322c9f496813501ec3bfb7ef09",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*",
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "phpdocumentor/phpdocumentor": "~2.5",
+            "phpunit/phpunit": "~4.0",
+            "squizlabs/php_codesniffer": "~1.5"
+        },
+        "time": "2014-09-24 20:45:42",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Parse\\": "src/Parse/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Parse Platform License"
+        ],
+        "authors": [
+            {
+                "name": "Parse",
+                "homepage": "https://github.com/parseplatform/parse-php-sdk/contributors"
+            }
+        ],
+        "description": "Parse PHP SDK",
+        "homepage": "https://github.com/parseplatform/parse-php-sdk",
+        "keywords": [
+            "parse",
+            "sdk"
+        ]
+    },
+    {
+        "name": "twilio/sdk",
+        "version": "3.12.6",
+        "version_normalized": "3.12.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twilio/twilio-php.git",
+            "reference": "51ab2929a66d4455ecb470eafdfe2bab798945ff"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twilio/twilio-php/zipball/51ab2929a66d4455ecb470eafdfe2bab798945ff",
+            "reference": "51ab2929a66d4455ecb470eafdfe2bab798945ff",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.1"
+        },
+        "require-dev": {
+            "mockery/mockery": ">=0.7.2",
+            "phpunit/phpunit": "3.7.*"
+        },
+        "time": "2014-08-26 21:31:03",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Services_Twilio": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Kevin Burke",
+                "email": "kevin@twilio.com"
+            },
+            {
+                "name": "Kyle Conroy",
+                "email": "kyle+pear@twilio.com"
+            }
+        ],
+        "description": "A PHP wrapper for Twilio's API",
+        "homepage": "http://github.com/twilio/twilio-php",
+        "keywords": [
+            "api",
+            "sms",
+            "twilio"
+        ]
+    }
+]

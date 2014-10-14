@@ -1,0 +1,240 @@
+ html {
+   min-height: 100%;
+ }
+
+body {
+  height: 100%;
+}
+
+#logo {
+  width: 15%;
+  min-width: 7.5rem;
+  display: block;
+  margin: 1.5rem auto;  
+}
+
+#title {
+  font-family: gothic;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: .6rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #5C5858;
+  margin: 1rem 0;
+}
+
+.row {
+  max-width: 72.5rem; 
+}
+
+.bars {
+  width: 100%;
+  display: block;
+  margin: 2rem auto;
+  border-bottom: 1px solid #B6B6B4; 
+}
+
+.books {
+  width: 80%;
+  display: block;
+  margin: 1rem auto;
+  -webkit-box-shadow: 5px 5px 24px 7px rgba(0,0,0,0.35);
+  -moz-box-shadow: 5px 5px 24px 7px rgba(0,0,0,0.35);
+  box-shadow: 5px 5px 24px 7px rgba(0,0,0,0.35);
+}
+
+
+h1 {
+  font-family: gothic;
+}
+
+@font-face {
+    font-family: gothic;
+    src: url("/../fonts/gothic.ttf");
+}
+
+@font-face {
+    font-family: gothicBold;
+    src: url("/../fonts/gothicb.ttf");
+}
+
+#alicelogo {
+  width: 15%;
+  min-width: 7.5rem;
+  display: block;
+  margin: 0 auto;  
+}
+
+#title_signup {
+  font-family: gothic;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: .55rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #f4ecdf;
+  margin: 1rem 0;
+}
+
+.labels input{
+  text-align: center;
+  font-family: gothic;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  color: #313131;
+}
+
+.labels h2 {
+  font-family: gothic;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: normal;
+  text-align: center;
+  text-transform: none;
+  color: #f4ecdf;
+  margin: .95rem 0;
+}
+
+input#name, input#phone{
+  max-width: 25rem;
+  display: block;
+  margin: 0 auto;
+}
+
+.space {
+  margin: 1rem 0;
+}
+
+input#activate {
+  width: 13rem;
+  display: block;
+  margin: 2rem auto 1.5rem;
+  color: #f4ecdf;
+  background-color: #cf5643;
+}
+
+input#activate:hover {
+  background-color: #cf3c24;
+}
+
+#hello h1 {
+  font-family: gothicBold;
+  font-size: 2rem;
+  font-weight: 900;
+  letter-spacing: .07rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #cf5643;
+}
+
+#hello p {
+  font-family: gothicBold;
+  font-size: .85rem;
+  font-weight: 600;
+  letter-spacing: .15rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #f4ecdf;
+  margin: 1rem 0 0 0;
+}
+
+#bottom-safe {
+  font-family: gothic;
+  font-size: .8rem;
+  font-weight: 500;
+  letter-spacing: .2rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #f4ecdf;
+  margin: 1.5rem;
+}
+
+input.parsley-success,
+select.parsley-success,
+textarea.parsley-success {
+  color: #468847;
+  background-color: #DFF0D8;
+  border: 1px solid #D6E9C6;
+}
+
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error {
+  color: #B94A48;
+  background-color: #F2DEDE;
+  border: 1px solid #EED3D7;
+}
+
+.parsley-errors-list {
+  margin: 2px 0 3px 0;
+  padding: 0;
+  list-style-type: none;
+  font-size: 0.9em;
+  line-height: 0.9em;
+  opacity: 0;
+  -moz-opacity: 0;
+  -webkit-opacity: 0;
+
+  transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -webkit-transition: all .3s ease-in;
+}
+
+.parsley-errors-list.filled {
+  opacity: 1;
+}
+
+fieldset {
+  margin: 0;
+  border: none;
+}
+
+
+.css-typing h3{
+  font-family: gothicBold;
+  font-size: 2rem;
+  font-weight: 900;
+  letter-spacing: .07rem;
+  text-align: left;
+  text-transform: uppercase;
+  color: #f4ecdf;
+  margin: .5rem;
+}
+
+#alice {
+  color: #cf5643;
+  text-align: right;
+}
+
+
+#crossfade, #broken {
+    position:relative;
+    width: 80%;
+    display: block;
+    margin: 1rem auto;
+
+}
+#crossfade img {
+    position:absolute;
+    left:0;
+    opacity: 1;
+    -webkit-transition: opacity .3s ease-in-out;
+    -moz-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
+    -ms-transition: opacity .3s ease-in-out;    
+    transition: opacity .3s ease-in-out;
+      -webkit-box-shadow: 0px 0px 24px 3px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 24px 3px rgba(0,0,0,0.15);
+    box-shadow: 0px 0px 24px 3px rgba(0,0,0,0.15);
+
+}
+ 
+#crossfade img.top:hover {
+    opacity:0;
+  
+}
